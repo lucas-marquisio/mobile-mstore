@@ -24,5 +24,5 @@ Versão mobile do projeto M. Store, uma loja online
 
 ## Como usar
 
-* Baixe o app <a href="http://lucasmarquisio.xyz:3003/mstore.apk" target="_blank">clicando aqui</a> e instale em seu android. 
-* http://lucasmarquisio.xyz:3003/mstore.apk
+* Baixe o app <a href="https://www.mediafire.com/file/6cxkl8o586n4lrr/mstore.apk/file" target="_blank">clicando aqui</a> e instale em seu android. 
+
